@@ -1,0 +1,23 @@
+1.  Inicio
+2.  funcion principal()
+3.	(arreglo(5),x(20)[{a-z}, {BS}])
+4.	valoresArreglo(arreglo(5))
+
+5.  fin funcion principal 
+
+--------------------------------- Procedimientos ---------------------------------
+
+6.  funcion valoresArrelgo(arreglo, x)
+
+7.  Para(fila<--0, fila<5, 1) haga
+8.     Escribir "Escriba un valor para la posición" + arreglo(fila)
+9.     Leer arreglo(fila)
+10. Fin_Para
+
+
+11. Para(fila<--0, fila<5, 1) haga
+12.     Escribir arreglo(fila)
+13. Fin_Para
+14.  fin funcion valoresArrelgo
+
+14. Fin
